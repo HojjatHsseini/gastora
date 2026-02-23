@@ -1,0 +1,5 @@
+{
+  "name": "شیائومی ساری (Xiaomi Sari)",
+  "description": "فروشگاه تخصصی محصولات شیائومی در ساری - تجربه خرید مدرن و هوشمند",
+  "requestFramePermissions": ["geolocation"]
+}
